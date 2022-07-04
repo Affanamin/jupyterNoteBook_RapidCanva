@@ -1,0 +1,16 @@
+https://www.youtube.com/watch?v=uts50CzLa6I&list=PLRKyZvuMYSIMO2ebTldbwMTnDCn5klzjS&index=8
+
+Problem Statement::
+
+Muhammad, we are ready to start the template building.
+Your goal is to create generalized template notebook files that are well documented, usable and understandable for no-code users, 
+and works across any relevant dataset. For now, we are waiting on the release of our new SDK, so we want to have you start by 
+writing them only in python notebook without the rapidcanvas SDK. These functions should take in a data frame and whichever 
+other parameters needed to accomplish the goal. The two we want you to start with are the following:
+
+ Drop Columns - Should be able to remove any column by name or index, multiple at the same time and/or by some condition (Ex. Columns that are null)
+ Delete Rows - Should be able to remove any row by index, multiple at the same time and/or by some condition (Ex. Remove rows where some value is null)
+
+Please throughly test these functions and document their usage- when you are done we will have you next week start using the new SDK to make these work inside of RapidCanvas.
+
+Is it clear?
